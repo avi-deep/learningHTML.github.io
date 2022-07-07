@@ -1,3 +1,16 @@
+@font-face {
+    font-family: ronaldBold;
+    src: url(../fonts/RondalBold-2O4lW.otf);
+}
+@font-face {
+    font-family: ronaldReg;
+    src: url(../fonts/RondalRegular-K7ORW.otf);
+}
+@font-face {
+    font-family: ronaldSemi;
+    src: url(../fonts/RondalSemibold-vmZ5Z.otf);
+}
+
 body{
-    background-color: blue;
+    font-family: ronaldBold;
 }
