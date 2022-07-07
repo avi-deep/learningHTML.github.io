@@ -10,10 +10,3 @@
     font-family: ronaldSemi;
     src: url(../fonts/RondalSemibold-vmZ5Z.otf);
 }
-body{
-    font-family: ronaldBold;
-}
-
-.nav{
-    background-color: blueviolet;
-}
