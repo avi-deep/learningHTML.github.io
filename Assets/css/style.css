@@ -14,11 +14,21 @@
     font-family: Geraldien;
     src: url(../fonts/GeraldinePersonalUseItalic-PK12m.ttf);
 }
+@font-face {
+    font-family: sage;
+    src: url(../fonts/SageylSageyl-rgGnB.ttf);
+}
 
 #logo {
     font-family: Geraldien;
     text-align: center;
     margin: 15px;
     font-size: 54px;
+}
+
+.col{
+    /* border: 2px solid black; */
+    text-align: center;
+    font-family: sage;
 }
 
