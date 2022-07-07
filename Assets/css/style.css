@@ -10,3 +10,14 @@
     font-family: ronaldSemi;
     src: url(../fonts/RondalSemibold-vmZ5Z.otf);
 }
+@font-face {
+    font-family: Geraldien;
+    src: url(../fonts/GeraldinePersonalUseItalic-PK12m.ttf);
+}
+
+#logo {
+    font-family: Geraldien;
+    text-align: center;
+    margin: 15px;
+    font-size: 54px;
+}
